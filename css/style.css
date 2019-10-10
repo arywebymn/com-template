@@ -1470,15 +1470,15 @@ h6 {
 #footer .credits {
   text-align: center;
   font-size: 13px;
-  color: #f1f7ff;
+  color: #00428a;
 }
 
 #footer .credits a {
-  color: #bfddfe;
+  color: #00428a;
 }
 
 #footer .credits a:hover {
-  color: #f1f7ff;
+  color: #00428a;
 }
 
 /*--------------------------------------------------------------
